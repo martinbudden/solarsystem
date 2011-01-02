@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="infobox_title_sun">Sun</string>
+<string name="infobox_content_sun">
+==Physical characteristics==
+**Spectral type:** G2V (yellow, main sequence)\n
+**Age:** 4.6 billion years\n
+**Mean diameter:** 1.392×10^^6^^ km (109 Earths)\n
+**Flattening:** 9×10^^−6^^\n
+**Volume:** 1.412×10^^18^^ km³ (1,300,000 Earths)\n
+**Mass:** 1.989×10^^30^^ kg (333,000 Earths)\n
+**Equatorial surface gravity:** 274 m/s² (27.9 g)\n
+**Escape velocity** (from surface)**:** 618 km/s\n
+
+===Density===
+**Average:** 1,408 kg/m³\n
+**Center:** 162,200 kg/m³ (modeled)\n
+**Lower photosphere:** 2×10^^−4^^ kg/m³\n
+**Lower chromosphere:** 5×10^^−6^^ kg/m³\n
+**Corona:** 1×10^^−12^^ kg/m³\n
+
+===Temperature===
+**Center:** ~1.57×10^^7^^ K (modeled)\n
+**Photosphere:** 5,778 K (effective)\n
+**Corona:** ~5×10^^6^^ K\n
+**Luminosity:** 3.846×10^^26^^ W, ~3.75×10^^28^^ lm
+
+==Rotation characteristics==
+**Axial tilt:** 7.25(to the ecliptic)\n
+**Sidereal rotation period**\n
+**(at equator):** 25.05 days\n
+**(at 16° latitude):** 25.38 days\n
+**(at poles):** 34.4 days\n
+**Rotation velocity:** 7,189 km/h (at equator)
+
+==Photospheric composition==
+73.46% hydrogen\n
+24.85% helium\n
+0.77% oxygen\n
+0.29% carbon\n
+0.16% iron\n
+0.12% sulfur\n
+0.12% neon\n
+0.09% nitrogen\n
+0.07% silicon\n
+0.05% magnesium\n\n
+
+Find out more on [[http://en.wikipedia.org/wiki/Sun|wikipedia]].\n
+</string>
+</resources>

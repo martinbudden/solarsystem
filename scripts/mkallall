@@ -1,0 +1,23 @@
+#!/bin/bash
+images=(sun mercury venus palebluedot earth mars ceres jupiter saturn uranus neptune pluto haumea makemake eris)
+for i in ${images[@]}; do
+    echo "$i"
+    ./mkall "$i" jpg
+done
+images=(palebluedot saturn)
+for i in ${images[@]}; do
+    echo "landcape $i"
+    ./mk_landscape_screen_images "$i" jpg
+done
+images=(palebluedot)
+for i in ${images[@]}; do
+    echo "portrait $i"
+    ./mk_portrait_screen_images "$i" jpg
+done
+echo "list headers"
+convert ../images/solar_system.jpg -resize 480x420 ../res/drawable-port-hdpi/list_header.jpg
+convert ../images/solar_system_landscape.jpg -resize 800x420 ../res/drawable-land-hdpi/list_header.jpg
+convert ../images/solar_system.jpg -resize 240x160 ../res/drawable-port-ldpi/list_header.jpg
+convert ../images/solar_system_landscape.jpg -resize 320x60 ../res/drawable-land-ldpi/list_header.jpg
+echo "app icon"
+./mk_appicons sun png

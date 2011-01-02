@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="infobox_title_ceres">Ceres</string>
+<string name="infobox_content_ceres">
+==Discovery==
+**Discovered by:** Giuseppe Piazzi\n
+**Discovery date:** 1 January 1801
+
+==Orbital characteristics==
+**Distance from sun:** 413.8 million km (2.77 AU)\n
+**Eccentricity:** 0.0793\n
+**Orbital period:** 4.60 years\n
+**Average orbital speed:** 17.882 km/s\n
+**Inclination to ecliptic:** 10.585°
+
+==Physical characteristics==
+**Equatorial radius:** 487.3 km\n
+**Mass:** 9.43×10^^20^^ kg\n
+**Mean density:** 2.077 g/cm³\n
+**Equatorial surface gravity:** 0.27 m/s² (0.028 g)\n
+**Escape velocity:** 0.51 km/s\n
+**Sidereal rotation period:** 9h 4m 28s\n
+**Axial tilt:** ~3°\n
+**Albedo:** 0.090 (V-band geometric)\n
+**Surface temp.:** ~167K(mean) 239K(max)\n
+**Spectral type:** C (carbonaceous)\n\n
+
+Find out more on [[http://en.wikipedia.org/wiki/Ceres_(dwarf_planet)|wikipedia]].
+</string>
+</resources>

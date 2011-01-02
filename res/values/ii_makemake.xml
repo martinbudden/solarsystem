@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="infobox_title_makemake">Makemake</string>
+<string name="infobox_content_makemake">
+==Discovery==
+**Discovered by:** Michael E. Brown,
+Chad Trujillo,
+David Rabinowitz\n
+**Discovery date:** March 31, 2005\n
+**Minor planet category:** dwarf planet, plutoid, TNO (cubewano)
+
+==Orbital characteristics==
+**Distance from sun:** 6,850 million km (45.8 AU)\n
+**Aphelion:** 7,940 million km (53.1 AU)\n
+**Perihelion:** 5,761 million km (38.5 AU)\n
+**Eccentricity:** 0.159\n
+**Orbital period:** 309.88 years\n
+**Average orbital speed:** 4.419 km/s\n
+**Inclination to ecliptic:** 28.96°
+
+==Physical characteristics==
+**Mean radius:** 710 ± 30 km\n
+**Volume:** ~1.5×10^^9^^ km³\n
+**Mass:** ~3×10^^21^^ kg\n
+**Mean density:** ~2 g/cm³ (assumed)\n
+**Equatorial surface gravity:** ~0.4 m/s²\n
+**Escape velocity:** ~0.75 km/s\n
+**Sidereal rotation period:** 7h 46m 16s\n
+**Axial tilt:** unknown\n
+**Albedo:** 69.6 - 88.5 (geometric)\n
+**Temperature:** 30–35 K (assuming albedo)\n
+**Spectral type:** B-V=0.83, V-R=0.5\n\n
+
+Find out more on [[http://en.wikipedia.org/wiki/Makemame_(dwarf_planet)|wikipedia]].
+</string>
+</resources>

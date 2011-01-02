@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="infobox_activity_label">Infobox</string>
+    <string name="infobox_menu_about">About</string>
+    <string name="infobox_button_prev">Prev</string>
+    <string name="infobox_button_home">Home</string>
+    <string name="infobox_button_next">Next</string>
+</resources>

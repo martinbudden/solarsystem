@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="infoboxes">
+    <item>sun</item>
+    <item>mercury</item>
+    <item>venus</item>
+    <item>palebluedot</item>
+    <item>earth</item>
+    <item>mars</item>
+    <item>ceres</item>
+    <item>jupiter</item>
+    <item>saturn</item>
+    <item>uranus</item>
+    <item>neptune</item>
+    <item>pluto</item>
+    <item>haumea</item>
+    <item>makemake</item>
+    <item>eris</item>
+<!--
+    <item>comets</item>
+    <item>kuiperbeltoortcloud</item>
+    <item>asteroids</item>
+    <item>jupitermoons</item>
+    <item>saturnmoons</item>
+    <item>moonsofthesolarsystem</item>
+-->
+</string-array>
+</resources>

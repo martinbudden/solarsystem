@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="infobox_title_mercury">Mercury</string>
+<string name="infobox_content_mercury">
+==Orbital characteristics==
+**Distance from sun:** 57.9 million km (0.387 AU)\n
+**Eccentricity:** 0.206\n
+**Orbital period:** 87.97 days\n
+**Average orbital speed:** 47.87 km/s\n
+**Inclination to ecliptic:** 7.005°\n
+**Satellites:** None
+
+==Physical characteristics==
+**Equatorial radius:** 2,440 km (0.383 Earths)\n
+**Flattening:** 0\n
+**Volume:** 6.083×10^^10^^ km³ (0.056 Earths)\n
+**Mass:** 3.302×10^^23^^ kg (0.055 Earths)\n
+**Density:** 5.427 g/cm³\n
+**Equatorial surface gravity:** 3.7 m/s² (0.38 g)\n
+**Escape velocity:** 4.25 km/s\n
+**Sidereal rotation period:** 58.6 days\n
+**Equatorial rotation velocity:** 10.9 km/h\n
+**Axial tilt:** 2.11′\n
+**Bond albedo:** 0.068\n
+**Surface temperature:** 80K to 700K
+
+==Atmosphere==
+**Atmosphere:** trace\n
+**Atmospheric composition:**\n
+42% molecular oxygen\n
+29% sodium\n
+22% hydrogen\n
+6% helium\n
+0.5% potassium\n
+Trace amounts of argon, nitrogen, carbon dioxide, water vapor, xenon, krypton and neon.\n\n
+
+Find out more on [[http://en.wikipedia.org/wiki/Mercury_(planet)|wikipedia]].
+</string>
+</resources>

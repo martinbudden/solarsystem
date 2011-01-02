@@ -1,0 +1,11 @@
+*.class
+*.jar
+local.properties
+bin/*
+docs/*
+gen/*
+javadoc/*
+image_unused/*
+android/bin/*
+android/gen/*
+android/javadoc/*

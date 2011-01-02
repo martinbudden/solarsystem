@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="infobox_title_venus">Venus</string>
+<string name="infobox_content_venus">
+==Orbital characteristics==
+**Distance from sun:** 108.2 million km (0.723 AU)\n
+**Eccentricity:** 0.007\n
+**Orbital period:** 224.7 days\n
+**Average orbital speed:** 35.02 km/s\n
+**Inclination to ecliptic:** 3.4°\n
+**Satellites:** None
+
+==Physical characteristics==
+**Equatorial radius:** 6,052 km (0.95 Earths)\n
+**Flattening:** 0\n
+**Volume:** 9.38×10^^11^^ km³ (0.857 Earths)\n
+**Mass:** 4.869×10^^24^^ kg (0.815 Earths)\n
+**Mean density:** 5.204 g/cm³\n
+**Equatorial surface gravity:** 8.87 m/s² (0.904 g)\n
+**Escape velocity:** 10.46 km/s\n
+**Sidereal rotation period:** −243.0 days\n
+**Equatorial rotation velocity :** 6.52 km/h\n
+**Axial tilt:** 177.3° (retrograde)\n
+**Bond albedo:** 0.90\n
+**Surface temperature:** 735K (460°C)
+
+==Atmosphere==
+**Surface pressure:** 93 bar (9.3 MPa)\n
+**Composition:**\n
+~96.5% carbon dioxide\n
+~3.5% nitrogen\n
+0.015% sulfur dioxide\n
+0.007% argon\n
+0.002% water vapor\n
+0.0017% carbon monoxide\n
+0.0012% helium\n
+0.0007% neon\n
+Trace amounts of carbonyl sulfide, hydrogen chloride, hydrogen fluoride.\n\n
+
+Find out more on [[http://en.wikipedia.org/wiki/Venus|wikipedia]].
+</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="infobox_title_saturn">Saturn</string>
+<string name="infobox_content_saturn">
+==Orbital characteristics==
+**Distance from sun:** 1,433 million km (9.58 AU)\n
+**Eccentricity:** 0.0557\n
+**Orbital period:** 29.46 years\n
+**Average orbital speed :** 9.69 km/s\n
+**Inclination to ecliptic:** 2.49°\n
+**Satellites:** ~200 observed (61 with secure orbits)
+
+==Physical characteristics==
+**Equatorial radius:** 60,268 km (9.45 Earths)\n
+**Flattening:** 0.0980\n
+**Volume:** 8.271×10^^14^^ km³ (764 Earths)\n
+**Mass:** 5.685×10^^26^^ kg (95.2 Earths)\n
+**Mean density:** 0.687 g/cm³ (less than water)\n
+**Equatorial surface gravity:** 10.44 m/s² (1.065 g)\n
+**Escape velocity:** 35.5 km/s\n
+**Sidereal rotation period:** 10h 34m\n
+**Equatorial rotation velocity:** 35,500 km/h\n
+**Axial tilt:** 26.73°\n
+**Bond albedo:** 0.342\n
+**Surface temp** (1 bar level)**:** 134K
+
+==Atmosphere==
+**Scale height:** 59.5 km\n
+**Composition:**\n
+~96% hydrogen (H,,2,,)\n
+~3% helium\n
+~0.4% methane\n
+~0.01% ammonia\n
+~0.01% hydrogen deuteride (HD)\n
+0.0007% ethane\n
+**Ices:**\n
+Ammonia,
+water,
+ammonium hydrosulfide(NH,,4,,SH)\n\n
+
+Find out more on [[http://en.wikipedia.org/wiki/Saturn|wikipedia]].
+</string>
+</resources>

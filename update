@@ -1,0 +1,4 @@
+#!/bin/bash
+# target 3 is API level 7, Android 2.1; target 4 is API level 8, Android 2.2
+# android update project --name solarsystem --target 4 --path ../solarsystem
+android update project --name solarsystem --target 4 --path ../solarsystem --library ../infoboxes

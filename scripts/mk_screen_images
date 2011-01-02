@@ -1,0 +1,8 @@
+#!/bin/bash
+# limit both the width and the height to that of the screen minus the status bar
+rm ../res/drawable-hdpi/$1_screen.$2 2>/dev/null
+#rm ../res/drawable-mdpi/$1_screen.$2 2>/dev/null
+#rm ../res/drawable-ldpi/$1_screen.$2 2>/dev/null
+convert ../images/$1.$2 -resize 480x432 ../res/drawable-hdpi/$1_screen.$2
+#convert ../images/$1.$2 -resize 320x290  ../res/drawable-mdpi/$1_screen.$2
+#convert ../images/$1.$2 -resize 240x210  ../res/drawable-ldpi/$1_screen.$2

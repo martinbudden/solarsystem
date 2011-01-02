@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="infobox_title_neptune">Neptune</string>
+<string name="infobox_content_neptune">
+==Discovery==
+**Discovered by:** Urbain Le Verrier, John Couch Adams, Johann Galle\n
+**Discovery date:**  September 23, 1846
+
+==Orbital characteristics==
+**Distance from sun:** 4,503 million km (30.1 AU)\n
+**Eccentricity:** 0.0112\n
+**Orbital period:** 164.79 years\n
+**Average orbital speed:** 5.43 km/s\n
+**Inclination to ecliptic:** 1.768°\n
+**Satellites:** 13
+
+==Physical characteristics==
+**Equatorial radius:** 24,764 km (3.88 Earths)\n
+**Flattening:** 0.0171\n
+**Volume:** 6.254×10^^13^^ km³ (57.7 Earths)\n
+**Mass:** 1.0243×10^^26^^ kg (17.1 Earths)\n
+**Mean density:** 1.638 g/cm³\n
+**Equatorial surface gravity:** 11.15 m/s² (1.14 g)\n
+**Escape velocity:** 23.5 km/s\n
+**Sidereal rotation period:** 16h 6m 36s\n
+**Equatorial rotation velocity:** 9,660 km/h\n
+**Axial tilt:** 28.32°\n
+**Bond albedo:** 0.290\n
+**Mean surface temp** (1 bar level)**:** 72K
+
+==Atmosphere==
+**Scale height:** 19.7km\n
+**Composition:**\n
+80 ± 3.2% hydrogen (H,,2,,)\n
+19 ± 3.2% helium\n
+1.5 ± 0.5% methane\n
+~0.019% hydrogen deuteride (HD)\n
+~0.00015% ethane\n
+**Ices:**\n
+ammonia,
+water,
+ammonium hydrosulfide (NH,,4,,SH),
+methane?\n\n
+
+Find out more on [[http://en.wikipedia.org/wiki/Neptune|wikipedia]].
+</string>
+</resources>

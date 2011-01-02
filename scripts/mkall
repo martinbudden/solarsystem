@@ -1,0 +1,4 @@
+#!/bin/bash
+./mk_content_images $1 $2
+./mk_screen_images $1 $2
+./mk_list_images $1 $2

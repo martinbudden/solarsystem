@@ -1,0 +1,8 @@
+#!/bin/bash
+# for landscape images limit the height to that of the screen minus the status bar
+rm ../res/drawable-land-hdpi/$1_screen_landscape.$2 2>/dev/null
+#rm ../res/drawable-land-mdpi/$1_screen.$2 2>/dev/null
+#rm ../res/drawable-land-ldpi/$1_screen.$2 2>/dev/null
+convert ../images/$1.$2 -resize 800x432 ../res/drawable-land-hdpi/$1_screen.$2
+#convert ../images/$1.$2 -resize 480x290  ../res/drawable-land-mdpi/$1_screen.$2
+#convert ../images/$1.$2 -resize 320x210  ../res/drawable-land-ldpi/$1_screen.$2

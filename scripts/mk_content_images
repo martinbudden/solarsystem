@@ -1,0 +1,9 @@
+#!/bin/bash
+# content images are limited in height to twice the icon size for the screen density
+# an arbitrary limit of twice this is placed on the width
+rm ../res/drawable-hdpi/$1.$2 2>/dev/null
+#rm ../res/drawable-mdpi/$1.$2 2>/dev/null
+#rm ../res/drawable-ldpi/$1.$2 2>/dev/null
+convert ../images/$1.$2 -resize 288x144 ../res/drawable-hdpi/$1.$2
+#convert ../images/$1.$2 -resize 192x96  ../res/drawable-mdpi/$1.$2
+#convert ../images/$1.$2 -resize 144x72  ../res/drawable-ldpi/$1.$2

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_activity_label">About</string>
+    <string name="about_title">Solar System</string>
+    <string name="about_version">Version %s</string>
+    <string name="about_credits">
+&lt;p&gt;Application written by Martin Budden&lt;/p&gt;
+&lt;p&gt;All images, except the one of Venus, are from
+&lt;a href=&quot;http://sse.jpl.nasa.gov/planets/&quot;&gt;NASA&lt;/a&gt;
+and are in the public domain.&lt;/p&gt;
+&lt;p&gt;Attribution for for the Venus image is
+&lt;a href=&quot;https://github.com/martinbudden/solarsystem/blob/master/image_attribution.md&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</string>
+</resources>

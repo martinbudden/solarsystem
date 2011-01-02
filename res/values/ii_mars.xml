@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="infobox_title_mars">Mars</string>
+<string name="infobox_content_mars">
+==Orbital characteristics==
+**Distance from sun:** 227.9 million km (1.52 AU)\n
+**Eccentricity:** 0.0933\n
+**Orbital period:** 686.971 days\n
+**Average orbital speed:** 24.077 km/s\n
+**Inclination  to ecliptic:** 1.850°\n
+**Satellites:** 2
+
+==Physical characteristics==
+**Equatorial radius:** 3,396.2 km (0.533 Earths)\n
+**Flattening:** 0.00589\n
+**Volume:** 1.6318×10^^11^^ km³ (0.151 Earths)\n
+**Mass:** 6.4185×10^^23^^ kg (0.107 Earths)\n
+**Mean density:** 3.9335 g/cm³\n
+**Equatorial surface gravity:** 3.711 m/s² (0.376 g)\n
+**Escape velocity:** 5.027 km/s\n
+**Sidereal rotation period:** 24h 37m 22s\n
+**Equatorial rotation velocity:** 868.2 km/h\n
+**Axial tilt:** 25.19°\n
+**Bond Albedo:** 0.25\n
+**Surface temperature:** −87°C to 20°C
+
+==Atmosphere==
+**Surface pressure:** 0.636 (0.4–0.87) kPa\n
+**Composition:**\n
+95.3% carbon dioxide\n
+2.7% nitrogen\n
+1.6% argon\n
+0.13% oxygen\n
+0.08% carbon monoxide\n
+210 ppm water vapor\n
+100 ppm nitric oxide\n
+15 ppm molecular hydrogen\n
+2.5 ppm neon\n
+Trace amounts of HDO, krypton, formaldehyde, xenon, ozone, hydrogen peroxide, methane.\n\n
+
+Find out more on [[http://en.wikipedia.org/wiki/Mars|wikipedia]].
+</string>
+</resources>

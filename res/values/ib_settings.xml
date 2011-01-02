@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="infobox_title_prefix">infobox_title_</string>
+    <string name="infobox_content_prefix">infobox_content_</string>
+    <string name="infobox_list">infoboxes</string>
+</resources>

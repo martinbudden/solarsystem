@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="infobox_title_earth">Earth</string>
+<string name="infobox_content_earth">
+==Orbital characteristics==
+**Distance from sun:** 149.6 million km (1 AU)\n
+**Eccentricity:** 0.0167\n
+**Orbital period:** 365.256363004 days\n
+**Average orbital speed:** 29.78 km/s\n
+**Inclination ecliptic:** 0° (by definition)\n
+**Satellites:** 1 (the Moon)
+
+==Physical characteristics==
+**Equatorial radius:** 6,378.1 km\n
+**Flattening:** 0.0033528\n
+**Volume:** 1.08321×10^^12^^ km³\n
+**Mass:** 5.9736×10^^24^^ kg\n
+**Mean density:** 5.515 g/cm³\n
+**Equatorial surface gravity:** 9.780327 m/s² (0.99732 g)\n
+**Escape velocity:** 11.186 km/s\n
+**Sidereal rotation period:** 23h 56m 4.1s\n
+**Equatorial rotation velocity:** 1,674.4 km/h\n
+**Axial tilt:** 23°26\'21\"\n
+**Bond albedo:** 0.306\n
+**Surface temperature:** -89.2°C to 57.8°C
+
+==Atmosphere==
+**Surface pressure:** 101.325 kPa (MSL)\n
+**Composition:**\n
+78.08% nitrogen (N,,2,,)\n
+20.95% oxygen (O,,2,,)\n
+0.93% argon\n
+0.038% carbon dioxide\n
+About 1% water vapor (varies with climate)\n\n
+
+Find out more on [[http://en.wikipedia.org/wiki/Earth|wikipedia]].
+</string>
+</resources>

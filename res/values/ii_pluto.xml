@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="infobox_title_pluto">Pluto</string>
+<string name="infobox_content_pluto">
+==Discovery==
+**Discovered by:**   Clyde W. Tombaugh\n
+**Discovery date:**  February 18, 1930
+
+==Orbital characteristics==
+**Distance from sun:** 5,906 million km (39.5 AU)\n
+**Aphelion:** 7,376 million km (49.3 AU)\n
+**Perihelion:** 4,437 million km (29.7 AU)\n
+**Eccentricity:** 0.249\n
+**Orbital period:** 248.1 years\n
+**Average orbital speed:** 4.666 km/s\n
+**Inclination to ecliptic:** 17.14°\n
+**Satellites:** 3
+
+==Physical characteristics==
+**Mean radius:** 1,153 km (0.18 Earths)\n
+**Volume:** 6,39×10^^9^^ km³ (0.0059  Earths)\n
+**Mass:** 1.305×10^^22^^ kg (0.0021 Earths)\n
+**Mean density:** 2.03 g/cm³\n
+**Equatorial surface gravity:** 0.658 m/s² (0.067 g)\n
+**Escape velocity:** 1.229 km/s\n
+**Sidereal rotation period:** 6d 9h 17m\n
+**Equatorial rotation velocity:** 47.18 km/h\n
+**Axial tilt:** 119.6° (to orbit)\n
+**Albedo:** 0.49–0.66 (geometric, varies by 35%)\n
+**Surface temp:** 33K(min) 44K(mean) 55K(max)
+
+==Atmosphere==
+**Surface pressure:** 0.30 Pa (summer maximum)\n
+**Composition:** nitrogen, methane\n\n
+
+Find out more on [[http://en.wikipedia.org/wiki/Pluto|wikipedia]].
+</string>
+</resources>

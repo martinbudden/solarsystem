@@ -1,0 +1,8 @@
+#!/bin/bash
+# for landscape images limit the width to that of the screen minus the status bar
+rm ../res/drawable-port-hdpi/$1_screen.$2 2>/dev/null
+#rm ../res/drawable-port-mdpi/$1_screen.$2 2>/dev/null
+#rm ../res/drawable-port-ldpi/$1_screen.$2 2>/dev/null
+convert ../images/$1.$2 -resize 480x760 ../res/drawable-port-hdpi/$1_screen.$2
+#convert ../images/$1.$2 -resize 320x440  ../res/drawable-port-mdpi/$1_screen.$2
+convert ../images/$1.$2 -resize 240x290  ../res/drawable-port-ldpi/$1_screen.$2

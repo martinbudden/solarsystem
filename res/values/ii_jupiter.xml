@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="infobox_title_jupiter">Jupiter</string>
+<string name="infobox_content_jupiter">
+==Orbital characteristics==
+**Distance from sun:** 778.5 million km (5.20 AU)\n
+**Eccentricity:** 0.0488\n
+**Orbital period:** 11.86 years\n
+**Average orbital speed:** 13.07 km/s\n
+**Inclination to ecliptic:** 1.305°\n
+**Satellites:** 63
+
+==Physical characteristics==
+**Equatorial radius:** 71,492 km (11.21 Earths)\n
+**Flattening:**  0.0649\n
+**Volume:** 1.431×10^^15^^ km³ (1321 Earths)\n
+**Mass:** 1.899×10^^27^^ kg (317.8 Earths, 1/1047 Sun)\n
+**Mean density:** 1.326 g/cm³\n
+**Equatorial surface gravity:** 24.79 m/s² (2.528 g)\n
+**Escape velocity:** 59.5 km/s\n
+**Sidereal rotation period:** 9h 55m 30s\n
+**Equatorial rotation velocity:** 45,300 km/h\n
+**Axial tilt:** 3.13°\n
+**Bond albedo:** 0.343\n
+**Surface temp** (1 bar level)**:** 165 K
+
+==Atmosphere==
+**Surface pressure:** 20–200 kPa (cloud layer)\n
+**Scale height:** 27 km\n
+**Composition:**\n
+89.8 ± 2.0% hydrogen (H,,2,,)\n
+10.2 ± 2.0% helium\n
+~0.3% methane\n
+~0.026% ammonia\n
+~0.003% hydrogen deuteride (HD)\n
+0.0006% ethane\n
+0.0004% water\n
+**Ices:**\n
+Ammonia,
+water,
+ammonium hydrosulfide(NH,,4,,SH)\n\n
+
+Find out more on [[http://en.wikipedia.org/wiki/Jupiter|wikipedia]].
+</string>
+</resources>

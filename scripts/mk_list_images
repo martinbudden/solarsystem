@@ -1,0 +1,11 @@
+#!/bin/bash
+# content images are limited in height to the icon size for the screen density
+# an arbitrary limit of twice this is placed on the width
+rm ../res/drawable-hdpi/$1_list.$2 2>/dev/null
+#rm ../res/drawable-mdpi/$1_list.$2 2>/dev/null
+rm ../res/drawable-ldpi/$1_list.$2 2>/dev/null
+# use large (double icon height) size list image for hdpi
+#convert ../images/$1.$2 -resize 288x144 ../res/drawable-hdpi/$1_list.$2
+#convert ../images/$1.$2 -resize 96x48  ../res/drawable-mdpi/$1_list.$2
+# use small (icon height) size list image for ldpi
+convert ../images/$1.$2 -resize 72x36  ../res/drawable-ldpi/$1_list.$2

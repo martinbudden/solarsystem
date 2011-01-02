@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="infobox_title_haumea">Haumea</string>
+<string name="infobox_content_haumea">
+==Discovery==
+**Discovered by:** Brown et al; Ortiz et al (neither official)\n
+**Discovery date:** 2004 December 28 (Brown et al); 2005 July (Ortiz et al)
+
+==Orbital characteristics==
+**Distance from sun:** 6,452 million km (43.1 AU)\n
+**Aphelion:** 7,710 million km (51.5 AU)\n
+**Perihelion:** 5,194 million km (34.7 AU)\n
+**Eccentricity:** 0.195\n
+**Orbital period:** 283.28 years\n
+**Average orbital speed:** 4.484 km/s\n
+**Inclination to ecliptic:** 28.22°\n
+**Satellites:** 2
+
+==Physical characteristics==
+**Dimensions:** ~1,960 × 1,518 × 996 km (Keck)\n
+**Mean radius:** ~718 km\n
+575^^+125^^,,−50,, km (Spitzer)\n
+762 ± 83 km (Hershel)\n
+**Mass:** (4.006 ± 0.040)×10^^21^^ kg\n
+**Mean density:** 2.6–3.3 g/cm³\n
+**Equatorial surface gravity:** 0.44 m/s²\n
+**Escape velocity:** 0.84 km/s\n
+**Sidereal rotation period:** 3h 54m 56s\n
+**Albedo:** 0.7 - 0.94 (estimated)\n
+**Temperature:** &lt;50K\n
+**Spectral type (Neutral):** 
+B-V=0.64, V-R=0.33
+B0-V0=0.646\n\n
+
+Find out more on [[http://en.wikipedia.org/wiki/Haumea_(dwarf_planet)|wikipedia]].
+</string>
+</resources>
